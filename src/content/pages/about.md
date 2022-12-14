@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About the Customizable Experience at Virginia Tech
 ---
-Thank you for participating in a prototype customization system for Virginia Tech students by helping them with product recommendations that will provide a more personable and accurate shopping experience. Our goal is to help save students time while increasing satisfaction by using AI-powered smart technologies.
+Thank you for participating in a prototype customization system for Virginia Tech students. This prototype aims to help VT students with product recommendations that will provide a more personable and accurate shopping experience. Our goal is to help save students time while increasing satisfaction by using AI-powered smart technologies.
 
 I﻿f you have reached this page, please press the "back" button to continue your experience.
 
