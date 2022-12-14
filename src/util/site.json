@@ -3,7 +3,7 @@
     "title": "Water Bottle Customization Experience",
     "titleTemplate": "%s",
     "description": "Thank you for participating in a prototype customization system for Virginia Tech students. This prototype aims to help VT students with product recommendations that will provide a more personable and accurate shopping experience. Our goal is to help save students time while increasing satisfaction by using AI-powered smart technologies.",
-    "siteUrl": "http://www.vt.edu",
+    "siteUrl": "https://www.vt.edu",
     "image": "/assets/vt_logo.jpg",
     "iconimage": "/assets/vt_logo.jpg",
     "twitterUsername": "@commvt"
